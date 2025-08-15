@@ -24,10 +24,36 @@
             </set>
           </value>
         </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../exam6_1/server/handler/service/user.go" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/../exam6_1/server/handler/service/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755251447246" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755251272949" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/pkg/aliyun.go">
           <value>
             <ScannedPath>
@@ -78,6 +104,7 @@
         <entry key="ali_sms" value="AliSms" />
         <entry key="config" value="Config" />
         <entry key="devices_list_logic" value="DevicesListLogic" />
+        <entry key="server" value="Server" />
       </map>
     </option>
     <option name="lastTimeChecked" value="1755240108884" />
