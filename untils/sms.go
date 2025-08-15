@@ -1,7 +1,7 @@
-package public_pkg
+package untils
 
 import (
-	"smart-health-platforms/pkg"
+	"github.com/yuanzhichao-star/public_pkg/pkg"
 )
 
 // 阿里云

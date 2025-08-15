@@ -1,4 +1,4 @@
-package public_pkg
+package pkg
 
 import (
 	"errors"
