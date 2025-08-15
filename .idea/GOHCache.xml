@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="AliSms">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/sms.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Config">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/log.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/pkg/aliyun.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755240967433" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/log.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755241403080" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/untils/sms.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755241445315" />
+              <option name="schema">
+                <list>
+                  <option value="AliSms" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="ali_sms" value="AliSms" />
+        <entry key="config" value="Config" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1755240108884" />
+  </component>
+</project>
