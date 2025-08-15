@@ -10,6 +10,13 @@
             </set>
           </value>
         </entry>
+        <entry key="AppConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Config">
           <value>
             <set>
@@ -21,6 +28,41 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/../smart-health-platforms/device_srv/internal/logic/deviceslistlogic.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Elasticsearch">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MongoDB">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Mysql">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NaCos">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Redis">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
             </set>
           </value>
         </entry>
@@ -52,7 +94,14 @@
         <entry key="file://$PROJECT_DIR$/../awesomeProject7/server/basic/config/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755263563482" />
+              <option name="lastModified" value="1755266259933" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../awesomeProject8/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755266348850" />
             </ScannedPath>
           </value>
         </entry>
@@ -68,45 +117,76 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755223622380" />
+              <option name="schema">
+                <list>
+                  <option value="Mysql" />
+                  <option value="Redis" />
+                  <option value="Elasticsearch" />
+                  <option value="MongoDB" />
+                  <option value="NaCos" />
+                  <option value="AppConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/config/global.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755223622380" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/inits/elasticsearch.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755262933188" />
+              <option name="lastModified" value="1755268245174" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/init.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755268336169" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/mongodb.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755262933204" />
+              <option name="lastModified" value="1755268167449" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/mysql.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755262941469" />
+              <option name="lastModified" value="1755268245129" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/nacos.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755263010493" />
+              <option name="lastModified" value="1755268279591" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/redis.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755263010602" />
+              <option name="lastModified" value="1755268279633" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/viper.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755263010560" />
+              <option name="lastModified" value="1755268336132" />
             </ScannedPath>
           </value>
         </entry>
@@ -133,6 +213,13 @@
                   <option value="Config" />
                 </list>
               </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/qiniuyun.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754646656029" />
             </ScannedPath>
           </value>
         </entry>
@@ -165,8 +252,14 @@
     <option name="tableStructMapping">
       <map>
         <entry key="ali_sms" value="AliSms" />
+        <entry key="app_config" value="AppConfig" />
         <entry key="config" value="Config" />
         <entry key="devices_list_logic" value="DevicesListLogic" />
+        <entry key="elasticsearch" value="Elasticsearch" />
+        <entry key="mongo_db" value="MongoDB" />
+        <entry key="mysql" value="Mysql" />
+        <entry key="na_cos" value="NaCos" />
+        <entry key="redis" value="Redis" />
         <entry key="server" value="Server" />
       </map>
     </option>
