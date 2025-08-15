@@ -47,6 +47,48 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/inits/elasticsearch.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755262933188" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/mongodb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755262933204" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/mysql.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755262941469" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/nacos.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755263010493" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/redis.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755263010602" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/viper.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755263010560" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/main.go">
           <value>
             <ScannedPath>
