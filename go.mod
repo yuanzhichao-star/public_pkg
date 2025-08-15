@@ -10,13 +10,10 @@ require (
 	github.com/aliyun/credentials-go v1.4.7
 	github.com/elastic/go-elasticsearch/v7 v7.17.10
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/nacos-group/nacos-sdk-go v1.1.6
 	github.com/qiniu/go-sdk/v7 v7.25.4
-	github.com/spf13/viper v1.20.1
 	go.mongodb.org/mongo-driver v1.17.4
 	go.uber.org/zap v1.27.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
-	gorm.io/driver/mysql v1.6.0
 	gorm.io/gorm v1.30.1
 )
 

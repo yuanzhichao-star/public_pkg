@@ -35,6 +35,27 @@
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/../awesomeProject7/server/basic/cmd.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755263477880" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../awesomeProject7/server/basic/cmd/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755263495213" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../awesomeProject7/server/basic/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755263563482" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/../exam6_1/server/handler/service/user.go">
           <value>
             <ScannedPath>
