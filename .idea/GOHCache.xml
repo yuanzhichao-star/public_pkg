@@ -17,6 +17,13 @@
             </set>
           </value>
         </entry>
+        <entry key="DevicesListLogic">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../smart-health-platforms/device_srv/internal/logic/deviceslistlogic.go" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="scannedPathMapping">
@@ -52,12 +59,25 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/../smart-health-platforms/device_srv/internal/logic/deviceslistlogic.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755248028157" />
+              <option name="schema">
+                <list>
+                  <option value="DevicesListLogic" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="tableStructMapping">
       <map>
         <entry key="ali_sms" value="AliSms" />
         <entry key="config" value="Config" />
+        <entry key="devices_list_logic" value="DevicesListLogic" />
       </map>
     </option>
     <option name="lastTimeChecked" value="1755240108884" />
