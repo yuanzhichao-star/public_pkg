@@ -3,6 +3,20 @@
   <component name="GoORMHelperCache">
     <option name="schemaMapping">
       <map>
+        <entry key="Ali">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/pay.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AliPay">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="AliSms">
           <value>
             <set>
@@ -21,13 +35,6 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/pkg/log.go" />
-            </set>
-          </value>
-        </entry>
-        <entry key="DevicesListLogic">
-          <value>
-            <set>
-              <option value="file://$PROJECT_DIR$/../smart-health-platforms/device_srv/internal/logic/deviceslistlogic.go" />
             </set>
           </value>
         </entry>
@@ -66,61 +73,14 @@
             </set>
           </value>
         </entry>
-        <entry key="Server">
-          <value>
-            <set>
-              <option value="file://$PROJECT_DIR$/../exam6_1/server/handler/service/user.go" />
-            </set>
-          </value>
-        </entry>
       </map>
     </option>
     <option name="scannedPathMapping">
       <map>
-        <entry key="file://$PROJECT_DIR$/../awesomeProject7/server/basic/cmd.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1755263477880" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/../awesomeProject7/server/basic/cmd/main.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1755263495213" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/../awesomeProject7/server/basic/config/config.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1755266259933" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/../awesomeProject8/main.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1755266348850" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/../exam6_1/server/handler/service/user.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1755251447246" />
-              <option name="schema">
-                <list>
-                  <option value="Server" />
-                </list>
-              </option>
-            </ScannedPath>
-          </value>
-        </entry>
         <entry key="file://$PROJECT_DIR$/config/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755223622380" />
+              <option name="lastModified" value="1755394677597" />
               <option name="schema">
                 <list>
                   <option value="Mysql" />
@@ -128,6 +88,7 @@
                   <option value="Elasticsearch" />
                   <option value="MongoDB" />
                   <option value="NaCos" />
+                  <option value="AliPay" />
                   <option value="AppConfig" />
                 </list>
               </option>
@@ -152,13 +113,6 @@
           <value>
             <ScannedPath>
               <option name="lastModified" value="1755268336169" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/inits/mongodb.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1755268167449" />
             </ScannedPath>
           </value>
         </entry>
@@ -190,10 +144,10 @@
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/main.go">
+        <entry key="file://$PROJECT_DIR$/pkg/alipay.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755251272949" />
+              <option name="lastModified" value="1755394574206" />
             </ScannedPath>
           </value>
         </entry>
@@ -223,6 +177,18 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/untils/pay.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755394375868" />
+              <option name="schema">
+                <list>
+                  <option value="Ali" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/untils/sms.go">
           <value>
             <ScannedPath>
@@ -235,34 +201,22 @@
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/../smart-health-platforms/device_srv/internal/logic/deviceslistlogic.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1755248028157" />
-              <option name="schema">
-                <list>
-                  <option value="DevicesListLogic" />
-                </list>
-              </option>
-            </ScannedPath>
-          </value>
-        </entry>
       </map>
     </option>
     <option name="tableStructMapping">
       <map>
+        <entry key="ali" value="Ali" />
+        <entry key="ali_pay" value="AliPay" />
         <entry key="ali_sms" value="AliSms" />
         <entry key="app_config" value="AppConfig" />
         <entry key="config" value="Config" />
-        <entry key="devices_list_logic" value="DevicesListLogic" />
         <entry key="elasticsearch" value="Elasticsearch" />
         <entry key="mongo_db" value="MongoDB" />
         <entry key="mysql" value="Mysql" />
         <entry key="na_cos" value="NaCos" />
         <entry key="redis" value="Redis" />
-        <entry key="server" value="Server" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1755240108884" />
+    <option name="lastTimeChecked" value="1755394189026" />
   </component>
 </project>

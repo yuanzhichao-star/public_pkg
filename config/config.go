@@ -33,6 +33,10 @@ type NaCos struct {
 	DataId      string
 	Group       string
 }
+type AliPay struct {
+	AppId      string
+	PrivateKey string
+}
 
 type AppConfig struct {
 	Mysql         `json:"mysql"`
@@ -40,4 +44,5 @@ type AppConfig struct {
 	Elasticsearch `json:"elasticsearch"`
 	MongoDB       `json:"mongoDB"`
 	NaCos         `json:"naCos"`
+	AliPay        `json:"aliPay"`
 }
